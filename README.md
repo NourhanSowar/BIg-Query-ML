@@ -1,1 +1,1 @@
-# BIg-Query-ML
+# Create ML Models with BigQuery ML
